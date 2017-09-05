@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContadorFisio</string>
+    <string name="conteo_nuevo">Ingrese Conteo Nuevo</string>
+</resources>
